@@ -30,9 +30,9 @@ Don't Forget To Adjust The  Serial  Communication is set to 115200 baud rate and
 
 ### Example Workflow 
 
-Detect 1 finger → Turn on LED 1.
-Detect 2 fingers → Turn on LED 2.
-Detect 3 fingers → Turn on both LEDs 3, etc.
+- Detect 1 finger → Turn on LED 1.
+- Detect 2 fingers → Turn on LED 2.
+- Detect 3 fingers → Turn on both LEDs 3, etc.
 
 ## License
 
