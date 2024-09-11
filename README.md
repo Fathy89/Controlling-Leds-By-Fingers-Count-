@@ -35,4 +35,4 @@ Don't Forget To Adjust The  Serial Comincaton to 115200 and Return Carriage
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-- Thanks to the Arduino,OpenCv,Google,Pyton community for their support and contributions.
+- Thanks to the Arduino,OpenCv,Google,Python communities for their support and contributions.
