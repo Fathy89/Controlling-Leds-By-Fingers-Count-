@@ -1,4 +1,4 @@
-# Controlling-Leds-By-Fingers-Count-
+# Controlling-Leds-By-Fingers-Count
 This project integrates computer vision using hand detection to count fingers, and based on the detection, sends commands to an Arduino to control LEDs. The workflow involves using OpenCV and MediaPipe to detect hand landmarks and count extended fingers. The finger count is then communicated to the Arduino via serial communication, where the Arduino controls the LEDs accordingly. Each number of extended fingers triggers a specific LED pattern or behavior on the Arduino.
 ## Getting Started
 
