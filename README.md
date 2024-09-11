@@ -26,9 +26,13 @@ To use this project, you will need the following:
 5. Then Run The Python Code.
 
 ### Note
-Don't Forget To Adjust The  Serial Comincaton to 115200 and Return Carriage 
+Don't Forget To Adjust The  Serial  Communication is set to 115200 baud rate and  Carriage Return Refer to  "for_Ard_ser.png" file to work Properly. 
 
+### Example Workflow 
 
+Detect 1 finger → Turn on LED 1.
+Detect 2 fingers → Turn on LED 2.
+Detect 3 fingers → Turn on both LEDs 3, etc.
 
 ## License
 
